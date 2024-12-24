@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\bin\Debug\net8.0\DefaultMethodImplementationInInterfaces.exe
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\bin\Debug\net8.0\DefaultMethodImplementationInInterfaces.deps.json
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\bin\Debug\net8.0\DefaultMethodImplementationInInterfaces.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\bin\Debug\net8.0\DefaultMethodImplementationInInterfaces.dll
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\bin\Debug\net8.0\DefaultMethodImplementationInInterfaces.pdb
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.dll
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\refint\DefaultMethodImplementationInInterfaces.dll
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.pdb
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\DefaultMethodImplementationInInterfaces.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day2\DefaultMethodImplementationInInterfaces\obj\Debug\net8.0\ref\DefaultMethodImplementationInInterfaces.dll

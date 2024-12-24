@@ -1,0 +1,14 @@
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\bin\Debug\net8.0\ObjectInitializers.exe
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\bin\Debug\net8.0\ObjectInitializers.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\bin\Debug\net8.0\ObjectInitializers.runtimeconfig.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\bin\Debug\net8.0\ObjectInitializers.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\bin\Debug\net8.0\ObjectInitializers.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\refint\ObjectInitializers.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ObjectInitializers.genruntimeconfig.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day1\ObjectInitializers\obj\Debug\net8.0\ref\ObjectInitializers.dll

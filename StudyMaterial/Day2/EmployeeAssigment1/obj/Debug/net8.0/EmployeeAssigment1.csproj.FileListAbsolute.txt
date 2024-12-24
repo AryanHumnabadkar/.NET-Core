@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\bin\Debug\net8.0\EmployeeAssigment1.exe
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\bin\Debug\net8.0\EmployeeAssigment1.deps.json
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\bin\Debug\net8.0\EmployeeAssigment1.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\bin\Debug\net8.0\EmployeeAssigment1.dll
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\bin\Debug\net8.0\EmployeeAssigment1.pdb
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.dll
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\refint\EmployeeAssigment1.dll
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.pdb
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\EmployeeAssigment1.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day2\EmployeeAssigment1\obj\Debug\net8.0\ref\EmployeeAssigment1.dll

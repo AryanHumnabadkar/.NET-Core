@@ -1,0 +1,11 @@
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ProjectReferenceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ProjectReferenceDemo.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ProjectReferenceDemo.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ProjectReferenceDemo.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\bin\Debug\net8.0\ProjectReferenceDemo.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\bin\Debug\net8.0\ProjectReferenceDemo.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\bin\Debug\net8.0\ProjectReferenceDemo.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ProjectReferenceDemo.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\refint\ProjectReferenceDemo.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ProjectReferenceDemo.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ProjectReferenceDemo\obj\Debug\net8.0\ref\ProjectReferenceDemo.dll

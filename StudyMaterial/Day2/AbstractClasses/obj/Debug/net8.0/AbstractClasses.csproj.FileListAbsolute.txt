@@ -1,0 +1,14 @@
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\bin\Debug\net8.0\AbstractClasses.exe
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\bin\Debug\net8.0\AbstractClasses.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\bin\Debug\net8.0\AbstractClasses.runtimeconfig.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\bin\Debug\net8.0\AbstractClasses.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\bin\Debug\net8.0\AbstractClasses.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\refint\AbstractClasses.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\AbstractClasses.genruntimeconfig.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day2\AbstractClasses\obj\Debug\net8.0\ref\AbstractClasses.dll

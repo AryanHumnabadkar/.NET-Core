@@ -1,0 +1,14 @@
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\bin\Debug\net8.0\ValueTypes.exe
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\bin\Debug\net8.0\ValueTypes.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\bin\Debug\net8.0\ValueTypes.runtimeconfig.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\bin\Debug\net8.0\ValueTypes.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\bin\Debug\net8.0\ValueTypes.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\refint\ValueTypes.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ValueTypes.genruntimeconfig.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day3\ValueTypes\obj\Debug\net8.0\ref\ValueTypes.dll

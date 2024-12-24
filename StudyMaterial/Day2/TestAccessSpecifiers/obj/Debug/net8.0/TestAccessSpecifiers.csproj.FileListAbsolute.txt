@@ -1,0 +1,11 @@
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\bin\Debug\net8.0\TestAccessSpecifiers.deps.json
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\bin\Debug\net8.0\TestAccessSpecifiers.dll
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\bin\Debug\net8.0\TestAccessSpecifiers.pdb
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\TestAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\TestAccessSpecifiers.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\TestAccessSpecifiers.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\TestAccessSpecifiers.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\TestAccessSpecifiers.dll
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\refint\TestAccessSpecifiers.dll
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\TestAccessSpecifiers.pdb
+D:\Trainings\IACSDDec24\Day2\TestAccessSpecifiers\obj\Debug\net8.0\ref\TestAccessSpecifiers.dll

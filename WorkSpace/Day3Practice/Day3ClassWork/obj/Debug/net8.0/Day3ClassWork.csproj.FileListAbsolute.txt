@@ -1,0 +1,14 @@
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\bin\Debug\net8.0\Day3ClassWork.exe
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\bin\Debug\net8.0\Day3ClassWork.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\bin\Debug\net8.0\Day3ClassWork.runtimeconfig.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\bin\Debug\net8.0\Day3ClassWork.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\bin\Debug\net8.0\Day3ClassWork.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\refint\Day3ClassWork.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\Day3ClassWork.genruntimeconfig.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Day3ClassWork\obj\Debug\net8.0\ref\Day3ClassWork.dll

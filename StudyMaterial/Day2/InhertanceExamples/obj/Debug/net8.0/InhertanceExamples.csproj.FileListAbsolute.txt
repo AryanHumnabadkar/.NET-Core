@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\bin\Debug\net8.0\InhertanceExamples.exe
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\bin\Debug\net8.0\InhertanceExamples.deps.json
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\bin\Debug\net8.0\InhertanceExamples.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\bin\Debug\net8.0\InhertanceExamples.dll
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\bin\Debug\net8.0\InhertanceExamples.pdb
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.dll
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\refint\InhertanceExamples.dll
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.pdb
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\InhertanceExamples.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day2\InhertanceExamples\obj\Debug\net8.0\ref\InhertanceExamples.dll

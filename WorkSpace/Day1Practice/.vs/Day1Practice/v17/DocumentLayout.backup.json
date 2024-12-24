@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day1Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5446BC6-5905-4526-81EA-0A0A13EDAB1E}|Day1\\Day1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\day1practice\\day1\\assignment-1-sol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5446BC6-5905-4526-81EA-0A0A13EDAB1E}|Day1\\Day1.csproj|solutionrelative:day1\\assignment-1-sol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment-1-Sol.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day1Practice\\Day1\\Assignment-1-Sol.cs",
+              "RelativeDocumentMoniker": "Day1\\Assignment-1-Sol.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day1Practice\\Day1\\Assignment-1-Sol.cs*",
+              "RelativeToolTip": "Day1\\Assignment-1-Sol.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T17:41:14.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

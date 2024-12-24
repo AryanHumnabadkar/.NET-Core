@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.exe
+D:\Trainings\IACSDDec24\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.deps.json
+D:\Trainings\IACSDDec24\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.dll
+D:\Trainings\IACSDDec24\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.pdb
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.dll
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\refint\ClassBasics.dll
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.pdb
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day1\ClassBasics\obj\Debug\net8.0\ref\ClassBasics.dll

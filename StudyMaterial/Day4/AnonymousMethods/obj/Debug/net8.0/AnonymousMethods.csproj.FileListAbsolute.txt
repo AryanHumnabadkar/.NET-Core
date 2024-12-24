@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.exe
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.deps.json
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.dll
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\bin\Debug\net8.0\AnonymousMethods.pdb
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.dll
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\refint\AnonymousMethods.dll
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.pdb
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\AnonymousMethods.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day4\AnonymousMethods\obj\Debug\net8.0\ref\AnonymousMethods.dll

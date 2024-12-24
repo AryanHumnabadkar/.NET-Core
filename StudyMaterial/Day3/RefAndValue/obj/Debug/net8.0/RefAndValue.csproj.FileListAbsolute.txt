@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day3\RefAndValue\bin\Debug\net8.0\RefAndValue.exe
+D:\Trainings\IACSDDec24\Day3\RefAndValue\bin\Debug\net8.0\RefAndValue.deps.json
+D:\Trainings\IACSDDec24\Day3\RefAndValue\bin\Debug\net8.0\RefAndValue.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day3\RefAndValue\bin\Debug\net8.0\RefAndValue.dll
+D:\Trainings\IACSDDec24\Day3\RefAndValue\bin\Debug\net8.0\RefAndValue.pdb
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.dll
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\refint\RefAndValue.dll
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.pdb
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\RefAndValue.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day3\RefAndValue\obj\Debug\net8.0\ref\RefAndValue.dll

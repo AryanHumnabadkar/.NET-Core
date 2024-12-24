@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day2ClassWork/1.0.0": {
+        "dependencies": {
+          "ProjectReferenceDemo": "1.0.0"
+        },
+        "runtime": {
+          "Day2ClassWork.dll": {}
+        }
+      },
+      "ProjectReferenceDemo/1.0.0": {
+        "runtime": {
+          "ProjectReferenceDemo.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day2ClassWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectReferenceDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

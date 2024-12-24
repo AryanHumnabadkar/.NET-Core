@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day2Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B91A0D6-D1BA-4FD7-B0DD-12DC9D3C0762}|Day2\\Day2ClassWork.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\day2practice\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B91A0D6-D1BA-4FD7-B0DD-12DC9D3C0762}|Day2\\Day2ClassWork.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9E4330-FB49-41E3-941A-5B27E8D6CA15}|ClassLibraryDemo\\ClassLibraryDemo.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\day2practice\\classlibrarydemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9E4330-FB49-41E3-941A-5B27E8D6CA15}|ClassLibraryDemo\\ClassLibraryDemo.csproj|solutionrelative:classlibrarydemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day2Practice\\ClassLibraryDemo\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibraryDemo\\Class1.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day2Practice\\ClassLibraryDemo\\Class1.cs",
+              "RelativeToolTip": "ClassLibraryDemo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:26:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day2Practice\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\Day2Practice\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwJwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:25:19.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

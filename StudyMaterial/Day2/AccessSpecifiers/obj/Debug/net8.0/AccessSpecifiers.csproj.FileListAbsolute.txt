@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\bin\Debug\net8.0\AccessSpecifiers.exe
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\bin\Debug\net8.0\AccessSpecifiers.deps.json
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\bin\Debug\net8.0\AccessSpecifiers.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\bin\Debug\net8.0\AccessSpecifiers.dll
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\bin\Debug\net8.0\AccessSpecifiers.pdb
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.dll
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\refint\AccessSpecifiers.dll
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.pdb
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\AccessSpecifiers.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day2\AccessSpecifiers\obj\Debug\net8.0\ref\AccessSpecifiers.dll

@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.exe
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.deps.json
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.dll
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\bin\Debug\net8.0\FuncActionPredicate.pdb
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.dll
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\refint\FuncActionPredicate.dll
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.pdb
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\ref\FuncActionPredicate.dll

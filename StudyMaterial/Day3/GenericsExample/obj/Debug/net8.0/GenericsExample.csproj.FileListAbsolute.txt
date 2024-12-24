@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day3\GenericsExample\bin\Debug\net8.0\GenericsExample.exe
+D:\Trainings\IACSDDec24\Day3\GenericsExample\bin\Debug\net8.0\GenericsExample.deps.json
+D:\Trainings\IACSDDec24\Day3\GenericsExample\bin\Debug\net8.0\GenericsExample.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day3\GenericsExample\bin\Debug\net8.0\GenericsExample.dll
+D:\Trainings\IACSDDec24\Day3\GenericsExample\bin\Debug\net8.0\GenericsExample.pdb
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.dll
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\refint\GenericsExample.dll
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.pdb
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\GenericsExample.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day3\GenericsExample\obj\Debug\net8.0\ref\GenericsExample.dll

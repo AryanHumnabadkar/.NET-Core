@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\bin\Debug\net8.0\ConstructorsAndObjectInitializers.exe
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\bin\Debug\net8.0\ConstructorsAndObjectInitializers.deps.json
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\bin\Debug\net8.0\ConstructorsAndObjectInitializers.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\bin\Debug\net8.0\ConstructorsAndObjectInitializers.dll
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\bin\Debug\net8.0\ConstructorsAndObjectInitializers.pdb
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.dll
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\refint\ConstructorsAndObjectInitializers.dll
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.pdb
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ConstructorsAndObjectInitializers.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day1\ConstructorsAndObjectInitializers\obj\Debug\net8.0\ref\ConstructorsAndObjectInitializers.dll

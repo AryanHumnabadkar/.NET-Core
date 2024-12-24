@@ -1,0 +1,14 @@
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\bin\Debug\net8.0\Assignment-3-Solution.exe
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\bin\Debug\net8.0\Assignment-3-Solution.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\bin\Debug\net8.0\Assignment-3-Solution.runtimeconfig.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\bin\Debug\net8.0\Assignment-3-Solution.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\bin\Debug\net8.0\Assignment-3-Solution.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\refint\Assignment-3-Solution.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\Assignment-3-Solution.genruntimeconfig.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day3Practice\Assignment-3-Solution\obj\Debug\net8.0\ref\Assignment-3-Solution.dll

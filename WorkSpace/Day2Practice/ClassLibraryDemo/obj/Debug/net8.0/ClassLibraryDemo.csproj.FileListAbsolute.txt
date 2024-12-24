@@ -1,0 +1,11 @@
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\bin\Debug\net8.0\ClassLibraryDemo.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\bin\Debug\net8.0\ClassLibraryDemo.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\bin\Debug\net8.0\ClassLibraryDemo.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ClassLibraryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ClassLibraryDemo.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ClassLibraryDemo.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ClassLibraryDemo.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ClassLibraryDemo.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\refint\ClassLibraryDemo.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ClassLibraryDemo.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day2Practice\ClassLibraryDemo\obj\Debug\net8.0\ref\ClassLibraryDemo.dll
