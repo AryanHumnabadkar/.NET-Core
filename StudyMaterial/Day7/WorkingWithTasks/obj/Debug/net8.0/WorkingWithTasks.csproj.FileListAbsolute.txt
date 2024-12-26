@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\bin\Debug\net8.0\WorkingWithTasks.exe
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\bin\Debug\net8.0\WorkingWithTasks.deps.json
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\bin\Debug\net8.0\WorkingWithTasks.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\bin\Debug\net8.0\WorkingWithTasks.dll
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\bin\Debug\net8.0\WorkingWithTasks.pdb
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.dll
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\refint\WorkingWithTasks.dll
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.pdb
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\WorkingWithTasks.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day7\WorkingWithTasks\obj\Debug\net8.0\ref\WorkingWithTasks.dll

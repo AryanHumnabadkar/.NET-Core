@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C729783-EB92-422A-BBED-D4FA43BA97C2}|Delegates\\Delegates.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day4\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C729783-EB92-422A-BBED-D4FA43BA97C2}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B717DC7-1DD4-4014-8246-8023BD3F64A7}|Lambdas\\Lambdas.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day4\\lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B717DC7-1DD4-4014-8246-8023BD3F64A7}|Lambdas\\Lambdas.csproj|solutionrelative:lambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DEDBCAF-DF35-485C-A596-822D36B02A2F}|AnonymousMethods\\AnonymousMethods.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day4\\anonymousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DEDBCAF-DF35-485C-A596-822D36B02A2F}|AnonymousMethods\\AnonymousMethods.csproj|solutionrelative:anonymousmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{975E8089-4A9A-4964-AD39-D7555505F1C8}|FuncActionPredicate\\FuncActionPredicate.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day4\\funcactionpredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975E8089-4A9A-4964-AD39-D7555505F1C8}|FuncActionPredicate\\FuncActionPredicate.csproj|solutionrelative:funcactionpredicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,50 +22,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Delegates\\Program.cs*",
-              "RelativeToolTip": "Delegates\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:56:23.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\FuncActionPredicate\\Program.cs",
-              "RelativeDocumentMoniker": "FuncActionPredicate\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\FuncActionPredicate\\Program.cs",
-              "RelativeToolTip": "FuncActionPredicate\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:57:00.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\AnonymousMethods\\Program.cs",
-              "RelativeDocumentMoniker": "AnonymousMethods\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\AnonymousMethods\\Program.cs",
-              "RelativeToolTip": "AnonymousMethods\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:56:31.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Lambdas\\Program.cs",
-              "RelativeDocumentMoniker": "Lambdas\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Lambdas\\Program.cs",
-              "RelativeToolTip": "Lambdas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:57:53.711Z",
+              "WhenOpened": "2024-12-22T06:18:18.965Z",
               "EditorCaption": ""
             }
           ]

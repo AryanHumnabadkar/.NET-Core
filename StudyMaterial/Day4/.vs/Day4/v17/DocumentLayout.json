@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C729783-EB92-422A-BBED-D4FA43BA97C2}|Delegates\\Delegates.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day4\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C729783-EB92-422A-BBED-D4FA43BA97C2}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA0922EB-2293-4622-93FF-2D97A9D7BE7F}|IDisposableExample\\IDisposableExample\\IDisposableExample.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day4\\idisposableexample\\idisposableexample\\idisposableexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA0922EB-2293-4622-93FF-2D97A9D7BE7F}|IDisposableExample\\IDisposableExample\\IDisposableExample.csproj|solutionrelative:idisposableexample\\idisposableexample\\idisposableexample.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Delegates\\Program.cs",
-              "RelativeDocumentMoniker": "Delegates\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\Delegates\\Program.cs",
-              "RelativeToolTip": "Delegates\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T06:18:18.965Z",
+              "Title": "IDisposableExample",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\IDisposableExample\\IDisposableExample\\IDisposableExample.csproj",
+              "RelativeDocumentMoniker": "IDisposableExample\\IDisposableExample\\IDisposableExample.csproj",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day4\\IDisposableExample\\IDisposableExample\\IDisposableExample.csproj",
+              "RelativeToolTip": "IDisposableExample\\IDisposableExample\\IDisposableExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T06:38:46.124Z",
               "EditorCaption": ""
             }
           ]

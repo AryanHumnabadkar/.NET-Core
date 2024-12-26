@@ -12,3 +12,11 @@ D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\refint\FuncAct
 D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.pdb
 D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.genruntimeconfig.cache
 D:\Trainings\IACSDDec24\Day4\FuncActionPredicate\obj\Debug\net8.0\ref\FuncActionPredicate.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.sourcelink.json
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\refint\FuncActionPredicate.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\FuncActionPredicate\obj\Debug\net8.0\FuncActionPredicate.pdb

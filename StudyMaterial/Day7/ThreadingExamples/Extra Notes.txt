@@ -1,0 +1,20 @@
+Line 25 :             Thread t1 = new Thread(new ThreadStart(Func1)); 
+		Here ThreadStart is a pre defined Delegate Class in *System.Threading* NameSpace. 
+		Line 25 in internally ThreadStart obj = new ThreadStart(Func1), and now this object of ThreadStart Delegate is passed to Thread Consctrutor with the specified function call in it. ( Here Func1). 
+		Thread Class Constructor takes this delagte obj and stores it inside the ref of Thread Class Type. ( Here t1 ).
+		That's how a Thread Class Instanase ( A thread ) is cretaed.
+
+		Here, why ThreadStart Delegate ? ( When we have Action / Func )
+		Coz, Thread Class Ctor is defined for taking ThreadStart / ParametrisedThreadStart Delegate only as parameter in it. ( FU Microsoft).
+		
+		But also if you create a custome delegate class and give its object to the ctor of Thread Class then also it will work. Coz C# compiler will store the Custom Delegate's Object into ThreadStart Delegate's Object. ( Must Condition is Custom Delegate also should habe same signature as ThreadStart Delegate i.e. Void & Paramterless).
+
+Line 26 :             Thread t2 = new Thread(Func2);
+		The compiler infers that Func2 is a method that matches the signature of the ThreadStart delegate (void method with no parameters).
+		It automatically creates a ThreadStart delegate for you behind the scenes.Similarly for Parameterised Methods, the compiler checks matches the signature with ParametrisedThreadStart Delegate's Signature.and add it internally
+
+Line 121:                         wh.WaitOne();
+		The WaitOne function allows to continue execution of current ( calling ) thread if state is Signaled, then after passing through WaitOne, method toggles its state to Non-Signaled which indiactes the OS to stop calling thread execution and switch.
+
+Line 131:             wh.Set();
+		The Set function allows to continue execution of current ( calling ) thread if state is Non-Signled, then after passing through Set, method toggles its state to Signaled which indiactes the OS to stop calling thread execution and switch to start any one of the waiting thread.

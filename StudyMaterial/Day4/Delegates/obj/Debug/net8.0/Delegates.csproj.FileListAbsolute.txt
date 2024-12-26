@@ -26,3 +26,4 @@ D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\Delegates\obj\Debug\net8
 D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\Delegates\obj\Debug\net8.0\Delegates.pdb
 D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\Delegates\obj\Debug\net8.0\Delegates.genruntimeconfig.cache
 D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\Delegates\obj\Debug\net8.0\ref\Delegates.dll
+D:\Programming\CDAC\8..NET\.NET-Core\StudyMaterial\Day4\Delegates\obj\Debug\net8.0\Delegates.sourcelink.json
