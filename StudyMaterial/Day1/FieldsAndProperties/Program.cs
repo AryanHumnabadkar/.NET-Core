@@ -7,15 +7,15 @@
             Class1 o1 = new Class1();
             Class1 o2 = new Class1();
 
-            //o1.Seti(1000);
-            //Console.WriteLine(o1.Geti());
+            o1.Seti(100);
+            Console.WriteLine(o1.Geti());
 
 
-            o1.P1 = 1000;  //set
-            Console.WriteLine(o1.P1);  //get
+            //o1.P1 = 1000;  //set
+            //Console.WriteLine(o1.P1);  //get
 
-            o1.P2 = "aaa";
-            o1.P3 = "aaa";
+            //o1.P2 = "aaa";
+            //o1.P3 = "aaa";
 
         }
 

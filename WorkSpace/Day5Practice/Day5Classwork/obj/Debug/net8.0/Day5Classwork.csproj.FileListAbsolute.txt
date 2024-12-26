@@ -1,0 +1,15 @@
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\bin\Debug\net8.0\Day5Classwork.exe
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\bin\Debug\net8.0\Day5Classwork.deps.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\bin\Debug\net8.0\Day5Classwork.runtimeconfig.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\bin\Debug\net8.0\Day5Classwork.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\bin\Debug\net8.0\Day5Classwork.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.AssemblyInfoInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.AssemblyInfo.cs
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.csproj.CoreCompileInputs.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.sourcelink.json
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\refint\Day5Classwork.dll
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.pdb
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\Day5Classwork.genruntimeconfig.cache
+D:\Programming\CDAC\8..NET\.NET-Core\WorkSpace\Day5Practice\Day5Classwork\obj\Debug\net8.0\ref\Day5Classwork.dll

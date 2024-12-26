@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Trainings\\IACSDDec24\\Day1\\",
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CC479EF-A026-426A-AF79-0C055DC3356D}|ObjectInitializers\\ObjectInitializers.csproj|d:\\trainings\\iacsddec24\\day1\\objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CC479EF-A026-426A-AF79-0C055DC3356D}|ObjectInitializers\\ObjectInitializers.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day1\\objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CC479EF-A026-426A-AF79-0C055DC3356D}|ObjectInitializers\\ObjectInitializers.csproj|solutionrelative:objectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD852333-64BE-441A-9B05-199902B52CFB}|ConstructorsAndObjectInitializers\\ConstructorsAndObjectInitializers.csproj|d:\\trainings\\iacsddec24\\day1\\constructorsandobjectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD852333-64BE-441A-9B05-199902B52CFB}|ConstructorsAndObjectInitializers\\ConstructorsAndObjectInitializers.csproj|solutionrelative:constructorsandobjectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09840076-350F-4065-870F-97BDE787B7F4}|FieldsAndProperties\\FieldsAndProperties.csproj|d:\\trainings\\iacsddec24\\day1\\fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09840076-350F-4065-870F-97BDE787B7F4}|FieldsAndProperties\\FieldsAndProperties.csproj|solutionrelative:fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEF6752-793C-4699-9F1B-DB57FD09DCD4}|ClassBasics\\ClassBasics.csproj|d:\\trainings\\iacsddec24\\day1\\classbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACEF6752-793C-4699-9F1B-DB57FD09DCD4}|ClassBasics\\ClassBasics.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day1\\classbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACEF6752-793C-4699-9F1B-DB57FD09DCD4}|ClassBasics\\ClassBasics.csproj|solutionrelative:classbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD852333-64BE-441A-9B05-199902B52CFB}|ConstructorsAndObjectInitializers\\Constructors.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day1\\constructorsandobjectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD852333-64BE-441A-9B05-199902B52CFB}|ConstructorsAndObjectInitializers\\Constructors.csproj|solutionrelative:constructorsandobjectinitializers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09840076-350F-4065-870F-97BDE787B7F4}|FieldsAndProperties\\FieldsAndProperties.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day1\\fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09840076-350F-4065-870F-97BDE787B7F4}|FieldsAndProperties\\FieldsAndProperties.csproj|solutionrelative:fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day1\\ObjectInitializers\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\ObjectInitializers\\Program.cs",
               "RelativeDocumentMoniker": "ObjectInitializers\\Program.cs",
-              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day1\\ObjectInitializers\\Program.cs",
-              "RelativeToolTip": "ObjectInitializers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\ObjectInitializers\\Program.cs*",
+              "RelativeToolTip": "ObjectInitializers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T09:35:07.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day1\\ConstructorsAndObjectInitializers\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\ConstructorsAndObjectInitializers\\Program.cs",
               "RelativeDocumentMoniker": "ConstructorsAndObjectInitializers\\Program.cs",
-              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day1\\ConstructorsAndObjectInitializers\\Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\ConstructorsAndObjectInitializers\\Program.cs",
               "RelativeToolTip": "ConstructorsAndObjectInitializers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,24 +56,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day1\\FieldsAndProperties\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\FieldsAndProperties\\Program.cs",
               "RelativeDocumentMoniker": "FieldsAndProperties\\Program.cs",
-              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day1\\FieldsAndProperties\\Program.cs",
-              "RelativeToolTip": "FieldsAndProperties\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwEkAAAAvAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\FieldsAndProperties\\Program.cs*",
+              "RelativeToolTip": "FieldsAndProperties\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T07:35:51.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day1\\ClassBasics\\Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\ClassBasics\\Program.cs",
               "RelativeDocumentMoniker": "ClassBasics\\Program.cs",
-              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day1\\ClassBasics\\Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day1\\ClassBasics\\Program.cs",
               "RelativeToolTip": "ClassBasics\\Program.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAuwE8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

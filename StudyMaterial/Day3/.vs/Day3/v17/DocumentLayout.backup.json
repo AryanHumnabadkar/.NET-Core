@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5279F5B7-B3E1-43E7-AF27-8727CA667188}|RefAndValue\\RefAndValue.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day3\\refandvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5279F5B7-B3E1-43E7-AF27-8727CA667188}|RefAndValue\\RefAndValue.csproj|solutionrelative:refandvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01B1DDA9-9B56-4F31-9786-E6DC1B0B87A0}|Arrays\\Arrays.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day3\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01B1DDA9-9B56-4F31-9786-E6DC1B0B87A0}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day3\\RefAndValue\\Program.cs",
+              "RelativeDocumentMoniker": "RefAndValue\\Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day3\\RefAndValue\\Program.cs*",
+              "RelativeToolTip": "RefAndValue\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:08:06.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day3\\Arrays\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day3\\Arrays\\Program.cs*",
-              "RelativeToolTip": "Arrays\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwE0AAAAYAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day3\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T06:39:50.717Z",
               "EditorCaption": ""

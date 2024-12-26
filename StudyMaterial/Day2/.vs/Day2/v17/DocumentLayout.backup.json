@@ -7,16 +7,8 @@
       "RelativeMoniker": "D:0:0:{7F09B9EF-8C17-4184-98EA-6082820F135F}|InterfaceExamples\\InterfaceExamples.csproj|solutionrelative:interfaceexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5F07F5C-786F-49D1-9041-F191FCA0D81E}|AbstractClasses\\AbstractClasses.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day2\\abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F07F5C-786F-49D1-9041-F191FCA0D81E}|AbstractClasses\\AbstractClasses.csproj|solutionrelative:abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD774B16-A8DD-45D3-9981-5CE81F39969F}|DefaultMethodImplementationInInterfaces\\DefaultMethodImplementationInInterfaces.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day2\\defaultmethodimplementationininterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD774B16-A8DD-45D3-9981-5CE81F39969F}|DefaultMethodImplementationInInterfaces\\DefaultMethodImplementationInInterfaces.csproj|solutionrelative:defaultmethodimplementationininterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0EE378C-B89D-44B1-A1C6-CF6D8A2C3FBC}|OverloadingHidingOverriding\\OverloadingHidingOverriding.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day2\\overloadinghidingoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0EE378C-B89D-44B1-A1C6-CF6D8A2C3FBC}|OverloadingHidingOverriding\\OverloadingHidingOverriding.csproj|solutionrelative:overloadinghidingoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\OverloadingHidingOverriding\\Program.cs",
-              "RelativeDocumentMoniker": "OverloadingHidingOverriding\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\OverloadingHidingOverriding\\Program.cs",
-              "RelativeToolTip": "OverloadingHidingOverriding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:33:14.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\AbstractClasses\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractClasses\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\AbstractClasses\\Program.cs",
-              "RelativeToolTip": "AbstractClasses\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T13:33:25.611Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\InterfaceExamples\\Program.cs",
               "RelativeDocumentMoniker": "InterfaceExamples\\Program.cs",
-              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\InterfaceExamples\\Program.cs*",
-              "RelativeToolTip": "InterfaceExamples\\Program.cs*",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJoAAAAYAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\InterfaceExamples\\Program.cs",
+              "RelativeToolTip": "InterfaceExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T13:33:21.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day2\\DefaultMethodImplementationInInterfaces\\Program.cs",
               "RelativeDocumentMoniker": "DefaultMethodImplementationInInterfaces\\Program.cs",
