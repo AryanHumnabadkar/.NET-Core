@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|d:\\trainings\\iacsddec24\\websites\\dataannotations\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|d:\\trainings\\iacsddec24\\websites\\dataannotations\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|d:\\trainings\\iacsddec24\\websites\\dataannotations\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|d:\\trainings\\iacsddec24\\websites\\dataannotations\\views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:views\\default\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|d:\\trainings\\iacsddec24\\websites\\dataannotations\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF12F45-6BA1-4B93-AA3A-DD66D908E27C}|DataAnnotations.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T09:59:31.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:59:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:31:44.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Views\\Default\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Create.cshtml",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Views\\Default\\Create.cshtml",
+              "RelativeToolTip": "Views\\Default\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T09:10:39.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Models\\Class1.cs",
+              "RelativeDocumentMoniker": "Models\\Class1.cs",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Websites\\DataAnnotations\\Models\\Class1.cs",
+              "RelativeToolTip": "Models\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:07:41.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

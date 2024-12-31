@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\bin\Debug\net8.0\ReflectionExample.exe
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\bin\Debug\net8.0\ReflectionExample.deps.json
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\bin\Debug\net8.0\ReflectionExample.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\bin\Debug\net8.0\ReflectionExample.dll
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\bin\Debug\net8.0\ReflectionExample.pdb
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.dll
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\refint\ReflectionExample.dll
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.pdb
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ReflectionExample.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day8\ReflectionExample\obj\Debug\net8.0\ref\ReflectionExample.dll

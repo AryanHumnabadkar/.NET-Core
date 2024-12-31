@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trainings\\IACSDDec24\\Day9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5D49DB-D137-4B58-B11A-E18D40A6E30D}|DataSetCode\\DataSetCode.csproj|d:\\trainings\\iacsddec24\\day9\\datasetcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5D49DB-D137-4B58-B11A-E18D40A6E30D}|DataSetCode\\DataSetCode.csproj|solutionrelative:datasetcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5D49DB-D137-4B58-B11A-E18D40A6E30D}|DataSetCode\\DataSetCode.csproj|d:\\trainings\\iacsddec24\\day9\\datasetcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE5D49DB-D137-4B58-B11A-E18D40A6E30D}|DataSetCode\\DataSetCode.csproj|solutionrelative:datasetcode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908B5881-1D7E-4607-BE87-B13F4B3CC264}|DatabaseCode\\DatabaseCode.csproj|d:\\trainings\\iacsddec24\\day9\\databasecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908B5881-1D7E-4607-BE87-B13F4B3CC264}|DatabaseCode\\DatabaseCode.csproj|solutionrelative:databasecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day9\\DataSetCode\\Form1.cs",
+              "RelativeDocumentMoniker": "DataSetCode\\Form1.cs",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day9\\DataSetCode\\Form1.cs [Design]",
+              "RelativeToolTip": "DataSetCode\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:41:42.303Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day9\\DataSetCode\\Form1.cs",
+              "RelativeDocumentMoniker": "DataSetCode\\Form1.cs",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day9\\DataSetCode\\Form1.cs",
+              "RelativeToolTip": "DataSetCode\\Form1.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAqwHgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:39:38.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\IACSDDec24\\Day9\\DatabaseCode\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseCode\\Program.cs",
+              "ToolTip": "D:\\Trainings\\IACSDDec24\\Day9\\DatabaseCode\\Program.cs",
+              "RelativeToolTip": "DatabaseCode\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:27:37.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

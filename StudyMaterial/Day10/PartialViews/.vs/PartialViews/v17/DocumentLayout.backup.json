@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D043C5CA-D5CA-4AD7-8155-0BA21A3AA785}|PartialViews.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\partialviews\\partialviews\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D043C5CA-D5CA-4AD7-8155-0BA21A3AA785}|PartialViews.csproj|solutionrelative:views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043C5CA-D5CA-4AD7-8155-0BA21A3AA785}|PartialViews.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\partialviews\\partialviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D043C5CA-D5CA-4AD7-8155-0BA21A3AA785}|PartialViews.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D043C5CA-D5CA-4AD7-8155-0BA21A3AA785}|PartialViews.csproj|c:\\users\\vikra\\desktop\\ycpoct24\\partialviews\\partialviews\\views\\home\\partialview1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D043C5CA-D5CA-4AD7-8155-0BA21A3AA785}|PartialViews.csproj|solutionrelative:views\\home\\partialview1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\Views\\Home\\View1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\View1.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\Views\\Home\\View1.cshtml",
+              "RelativeToolTip": "Views\\Home\\View1.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:19:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:18:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartialView1.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\Views\\Home\\PartialView1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PartialView1.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPOCT24\\PartialViews\\PartialViews\\Views\\Home\\PartialView1.cshtml",
+              "RelativeToolTip": "Views\\Home\\PartialView1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:18:42.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

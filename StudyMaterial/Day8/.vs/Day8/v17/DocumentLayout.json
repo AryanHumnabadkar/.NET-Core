@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0403FB26-E823-4200-A72B-A0095F6F7B40}|SerializationCore\\SerializationCore.csproj|d:\\programming\\cdac\\8..net\\.net-core\\studymaterial\\day8\\serializationcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0403FB26-E823-4200-A72B-A0095F6F7B40}|SerializationCore\\SerializationCore.csproj|solutionrelative:serializationcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day8\\SerializationCore\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationCore\\Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\StudyMaterial\\Day8\\SerializationCore\\Program.cs",
+              "RelativeToolTip": "SerializationCore\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T18:29:04.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

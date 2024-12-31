@@ -1,0 +1,14 @@
+D:\Trainings\IACSDDec24\Day8\SerializationCore\bin\Debug\net8.0\SerializationCore.exe
+D:\Trainings\IACSDDec24\Day8\SerializationCore\bin\Debug\net8.0\SerializationCore.deps.json
+D:\Trainings\IACSDDec24\Day8\SerializationCore\bin\Debug\net8.0\SerializationCore.runtimeconfig.json
+D:\Trainings\IACSDDec24\Day8\SerializationCore\bin\Debug\net8.0\SerializationCore.dll
+D:\Trainings\IACSDDec24\Day8\SerializationCore\bin\Debug\net8.0\SerializationCore.pdb
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.AssemblyInfoInputs.cache
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.AssemblyInfo.cs
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.csproj.CoreCompileInputs.cache
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.dll
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\refint\SerializationCore.dll
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.pdb
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\SerializationCore.genruntimeconfig.cache
+D:\Trainings\IACSDDec24\Day8\SerializationCore\obj\Debug\net8.0\ref\SerializationCore.dll

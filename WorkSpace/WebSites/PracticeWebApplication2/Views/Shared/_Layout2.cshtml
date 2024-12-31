@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SidebarLayout</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <style>
+        /* Sidebar Styling */
+        .sidebar {
+            background-color: #343a40;
+            color: white;
+            padding: 20px;
+            min-height: 100vh;
+            position: fixed;
+            width: 200px;
+        }
+        .sidebar a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            margin: 10px 0;
+        }
+        .sidebar a:hover {
+            text-decoration: underline;
+        }
+        .content-area {
+            margin-left: 220px;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <h3>Sidebar Menu</h3>
+        <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <a asp-area="" asp-controller="About" asp-action="Index">About</a>
+        <a href="#">Contact</a>
+    </div>
+    <div class="content-area">
+        <header class="mb-4">
+            <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">SidebarApp</a>
+                </div>
+            </nav>
+        </header>
+        <main role="main">
+            @RenderBody()
+        </main>
+        <footer class="text-center mt-4">
+            <small>&copy; 2024 - SidebarApp</small>
+        </footer>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

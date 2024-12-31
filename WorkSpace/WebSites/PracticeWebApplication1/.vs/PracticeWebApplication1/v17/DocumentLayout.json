@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\practicewebapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\practicewebapplication1\\wwwroot\\index1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|solutionrelative:wwwroot\\index1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\practicewebapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\practicewebapplication1\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\practicewebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|d:\\programming\\cdac\\8..net\\.net-core\\workspace\\websites\\practicewebapplication1\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3108D7C-A32C-4C9B-B916-47B0FF83308A}|PracticeWebApplication1.csproj|solutionrelative:controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index1.html",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\wwwroot\\index1.html",
+              "RelativeDocumentMoniker": "wwwroot\\index1.html",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\wwwroot\\index1.html",
+              "RelativeToolTip": "wwwroot\\index1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-30T09:17:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:59:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:01:30.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:02:28.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:02:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\CDAC\\8..NET\\.NET-Core\\WorkSpace\\WebSites\\PracticeWebApplication1\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:01:40.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

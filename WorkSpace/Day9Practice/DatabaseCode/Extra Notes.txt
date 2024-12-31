@@ -1,0 +1,27 @@
+Steps : 
+	1. Create Connection =>
+	Sqlconnection conn = new Sqlconnection();
+
+	2. Set Connection String =>
+	conn.ConnectionString = "------";
+
+	3. Create SQL Command =>
+	Sqlcommand command = new Sqlcommand();
+
+	4. Set SQL Command Type =>
+	command.CommandType = CommandType.Text;
+
+	5. Set SQL Command Text =>
+	command.CommandText = "---SQL Query---";
+
+	6. Connect SQL Command with Connection =>
+	command.Connection = conn;
+
+	7. Open the connection =>
+	conn.Open();
+
+	8. Execute Query
+
+
+Line 255 : 
+		While using Scalar Execute to execute a query, if the method returns a null object, then it is an valid return for the method. but for us, if we call any further method on that null object or try to access its fields or properties, then it will result n null Pointer Exception.
